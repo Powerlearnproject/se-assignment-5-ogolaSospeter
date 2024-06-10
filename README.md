@@ -112,7 +112,7 @@ Path Intellisense: Auto-completes filenames.
 GitLens: Enhances the Git capabilities in VS Code.
 
 //adding image
-![Extensions](/images/extensions.png)
+![Extensions](./images/extensions.PNG)
 
 
 
@@ -133,7 +133,7 @@ Integrated with the editor, making it easy to switch between code and terminal.
 Supports multiple terminal instances.
 
 //adding image
-![Integrated Terminal](/images/terminal.png)
+![Integrated Terminal](./images/terminal.PNG)
 
 
 
